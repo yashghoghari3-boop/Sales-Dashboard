@@ -56,4 +56,4 @@ Interactive filtering enables users to analyze data from multiple business persp
 
 
 6. Screenshots / Demos
-show what the dashboard looks like: 
+show what the dashboard looks like: https://github.com/yashghoghari3-boop/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
